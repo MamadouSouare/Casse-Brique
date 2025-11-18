@@ -12,5 +12,5 @@ Un jeu de casse-briques classique développé en Lua avec le framework LÖVE2D.
 ## À Propos du Code
 
 Ce projet a été l'occasion d'expérimenter avec les concepts de la Programmation Orientée Objet (POO) en Lua. L'architecture du jeu utilise des **métatables** pour simuler la création d'objets (comme les briques, la balle, la raquette) de manière simple et lisible, sans bibliothèque externe.
-![Menu principa](screenshoots/Capture d’écran 2025-11-18 012136.png)
-![Menu principa](screenshoots/Capture d’écran 2025-11-18 012222.png)
+![Menu principa](screenshoots/menu.png)
+![Ecran de jeu](screenshoots/ecran_jeu.png)
